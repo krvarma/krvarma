@@ -1,8 +1,8 @@
-Hello, there!![Wave](https://raw.githubusercontent.com/krvarma/krvarma/master/images/wave.gif?token=AA46XG2P2JWFI3SYIWYEH4C7GJYGY =32x32)
+Hello, there! ![Wave](https://raw.githubusercontent.com/krvarma/krvarma/master/images/wave.gif?token=AA46XG2P2JWFI3SYIWYEH4C7GJYGY =32x32)
 
- - 📍From Ernakulam, Kerala, India 🇮🇳 
- - 👨🏻‍💻Software Architect and Programmer
-- 🙇🏻‍♂️Currently learning [Rust](https://www.rust-lang.org/), Julia 
-- 📭Reach me on[<img src="https://raw.githubusercontent.com/krvarma/krvarma/master/images/twitter.png?token=AA46XG2XUDIZ76U3S3CCDA27GJ7UK">](https://twitter.com/krvma), [<img src="https://raw.githubusercontent.com/krvarma/krvarma/master/images/linkedin.png?token=AA46XG272PH4JYMKPPFV3HS7GJ7XA">](https://www.linkedin.com/in/krvarma)
+ - 📍I'm from Ernakulam, Kerala, India 🇮🇳 
+ - 👨🏻‍💻I'm a Software Architect and Programmer
+- 🙇🏻‍♂️I'm currently learning [Rust](https://www.rust-lang.org/)
+- 📭You can reach me on [<img src="https://raw.githubusercontent.com/krvarma/krvarma/master/images/twitter.png?token=AA46XG2XUDIZ76U3S3CCDA27GJ7UK">](https://twitter.com/krvma) and [<img src="https://raw.githubusercontent.com/krvarma/krvarma/master/images/linkedin.png?token=AA46XG272PH4JYMKPPFV3HS7GJ7XA">](https://www.linkedin.com/in/krvarma)
 -  ✍️I write articles on [Medium](https://medium.com/@krvarma), [Hackster](https://www.hackster.io/krvarma) 
-- 👍      ![c](https://img.shields.io/badge/code-C/C++-informational?style=flat&logo=%3Cc%3E&logoColor=white&color=2bbc8a)&#8195;![golang](https://img.shields.io/badge/code-Golang-informational?style=flat&logo=%3Cgo%3E&logoColor=white&color=2bbc8a)&#8195;![rust](https://img.shields.io/badge/code-Rust-informational?style=flat&logo=%3Crust%3E&logoColor=white&color=2bbc8a)&#8195;![python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=%3Cpython%3E&logoColor=white&color=2bbc8a)&#8195;![kubernetes](https://img.shields.io/badge/cloud-Kubernetes-informational?style=flat&logo=%3Ckubernetes%3E&logoColor=white&color=2bbc8a)&#8195;![cncf](https://img.shields.io/badge/cloud-Cloud%20Native-informational?style=flat&logo=%3Ccloudnative%3E&logoColor=white&color=2bbc8a)&#8195;![enter image description here](https://img.shields.io/badge/diy-Arduino-informational?style=flat&logo=%3Carduino%3E&logoColor=white&color=2bbc8a)&#8195;![iot](https://img.shields.io/badge/tech-IoT-informational?style=flat&logo=%3Ciot%3E&logoColor=white&color=2bbc8a)
+- 😄 Pronouns: he/him
