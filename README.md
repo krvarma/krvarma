@@ -1,4 +1,4 @@
-Hello, there![Wave](https://raw.githubusercontent.com/krvarma/krvarma/master/images/wave.gif?token=AA46XG2P2JWFI3SYIWYEH4C7GJYGY =32x32)
+**Hello, there! :wave:**
 
  - 📍I'm from Ernakulam, Kerala, India 🇮🇳 
  - 👨🏻‍💻I'm a Software Architect and Programmer
